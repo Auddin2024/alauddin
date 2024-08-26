@@ -1,2 +1,2 @@
 # mdalauddin
-https://github.com/Auddin2024/alauddin.git
+https://github.com/Auddin2024/alauddin/
